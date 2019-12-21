@@ -1,0 +1,390 @@
+{
+   "description":"Learn Legal English Victims",
+   "dialogs":[
+      {
+         "tips":{
+
+         },
+         "text":"Victim (noun)",
+         "answer":"Definition: A person who has been harmed or killed as a result of a crime or other action.",
+         "imageAltText":"-",
+         "audio":[
+            {
+               "path":"https:\/\/studylegalenglish.com\/wp-content\/uploads\/2019\/Protected\/v6601.mp3",
+               "mime":"audio\/mp3",
+               "copyright":{
+                  "license":"U"
+               }
+            }
+         ],
+         "image":{
+            "path":"images\/murder.jpg",
+            "mime":"image\/jpeg",
+            "width":500,
+            "height":500
+         }
+      },
+      {
+         "tips":{
+
+         },
+         "text":"Investigatory (adjective)",
+         "answer":"Definition: Related to investigation, the formal inquiry to discover the truth.",
+         "imageAltText":"-",
+         "audio":[
+            {
+               "path":"https:\/\/studylegalenglish.com\/wp-content\/uploads\/2019\/Protected\/v6602.mp3",
+               "mime":"audio\/mp3",
+               "copyright":{
+                  "license":"U"
+               }
+            }
+         ],
+         "image":{
+            "path":"images\/Advocacy.jpg",
+            "mime":"image\/jpeg",
+            "width":500,
+            "height":500
+         }
+      },
+      {
+         "tips":{
+
+         },
+         "text":"To arrest (verb)",
+         "answer":"Definition: The apprehension, stopping or capturing of a suspect.",
+         "imageAltText":"-",
+         "audio":[
+            {
+               "path":"https:\/\/studylegalenglish.com\/wp-content\/uploads\/2019\/Protected\/v6603.mp3",
+               "mime":"audio\/mp3",
+               "copyright":{
+                  "license":"U"
+               }
+            }
+         ],
+         "image":{
+            "path":"images\/mind.jpg",
+            "mime":"image\/jpeg",
+            "width":500,
+            "height":500
+         }
+      },
+      {
+         "tips":{
+
+         },
+         "text":"To interrogate  (verb)",
+         "answer":"Definition: To question a suspect by the police. ",
+         "imageAltText":"-",
+         "audio":[
+            {
+               "path":"https:\/\/studylegalenglish.com\/wp-content\/uploads\/2019\/Protected\/v6604.mp3",
+               "mime":"audio\/mp3",
+               "copyright":{
+                  "license":"U"
+               }
+            }
+         ],
+         "image":{
+            "path":"images\/interrogate.jpg",
+            "mime":"image\/jpeg",
+            "width":500,
+            "height":500
+         }
+      },
+      {
+         "tips":{
+
+         },
+         "text":"To charge (verb)",
+         "answer":"Definition: To formally accuse a person of a crime by the police or Crown Prosecution Service or other body. ",
+         "imageAltText":"-",
+         "audio":[
+            {
+               "path":"https:\/\/studylegalenglish.com\/wp-content\/uploads\/2019\/Protected\/v6605.mp3",
+               "mime":"audio\/mp3",
+               "copyright":{
+                  "license":"U"
+               }
+            }
+         ],
+         "image":{
+            "path":"images\/Conviction.jpg",
+            "mime":"image\/jpeg",
+            "width":500,
+            "height":500
+         }
+      },
+      {
+         "tips":{
+
+         },
+         "text":"Out-of-court disposal (noun)",
+         "answer":"Definition: A method (e.g. community resolutions, cautions and penalty notices) for dealing with low-level criminal offences and anti-social behaviour without prosecution. ",
+         "imageAltText":"-",
+         "audio":[
+            {
+               "path":"https:\/\/studylegalenglish.com\/wp-content\/uploads\/2019\/Protected\/v6606.mp3",
+               "mime":"audio\/mp3",
+               "copyright":{
+                  "license":"U"
+               }
+            }
+         ],
+         "image":{
+            "path":"images\/Arbitration_award.jpg",
+            "mime":"image\/jpeg",
+            "width":500,
+            "height":500
+         }
+      },
+      {
+         "tips":{
+
+         },
+         "text":"Crime scene (noun)",
+         "answer":"Definition: A place where an offence has been committed and from where evidence may be gathered. ",
+         "imageAltText":"-",
+         "audio":[
+            {
+               "path":"https:\/\/studylegalenglish.com\/wp-content\/uploads\/2019\/Protected\/v6607.mp3",
+               "mime":"audio\/mp3",
+               "copyright":{
+                  "license":"U"
+               }
+            }
+         ],
+         "image":{
+            "path":"images\/crime_scene.jpg",
+            "mime":"image\/jpeg",
+            "width":500,
+            "height":500
+         }
+      },
+      {
+         "tips":{
+
+         },
+         "text":"Testimony (noun)",
+         "answer":"Definition: A witness statement (normally oral) given on oath in court and used as evidence in court. ",
+         "imageAltText":"-",
+         "audio":[
+            {
+               "path":"https:\/\/studylegalenglish.com\/wp-content\/uploads\/2019\/Protected\/v6608.mp3",
+               "mime":"audio\/mp3",
+               "copyright":{
+                  "license":"U"
+               }
+            }
+         ],
+         "image":{
+            "path":"images\/Oral.jpg",
+            "mime":"image\/jpeg",
+            "width":500,
+            "height":500
+         }
+      },
+      {
+         "tips":{
+
+         },
+         "text":"Witness statement (noun)",
+         "answer":"Definition: A written statement made by witnesses which are used as evidence in court.",
+         "imageAltText":"-",
+         "audio":[
+            {
+               "path":"https:\/\/studylegalenglish.com\/wp-content\/uploads\/2019\/Protected\/v6609.mp3",
+               "mime":"audio\/mp3",
+               "copyright":{
+                  "license":"U"
+               }
+            }
+         ],
+         "image":{
+            "path":"images\/Statement.jpg",
+            "mime":"image\/jpeg",
+            "width":500,
+            "height":500
+         }
+      },
+      {
+         "tips":{
+
+         },
+         "text":"Real evidence (noun)",
+         "answer":"Definition: An object (usually tangible) used as evidence in court. ",
+         "imageAltText":"-",
+         "audio":[
+            {
+               "path":"https:\/\/studylegalenglish.com\/wp-content\/uploads\/2019\/Protected\/v6610.mp3",
+               "mime":"audio\/mp3",
+               "copyright":{
+                  "license":"U"
+               }
+            }
+         ],
+         "image":{
+            "path":"images\/Gun.jpg",
+            "mime":"image\/jpeg",
+            "width":500,
+            "height":500
+         }
+      },
+      {
+         "tips":{
+
+         },
+         "text":"Documentary evidence (noun)",
+         "answer":"Definition: Written documents used as evidence to the court.",
+         "imageAltText":"-",
+         "audio":[
+            {
+               "path":"https:\/\/studylegalenglish.com\/wp-content\/uploads\/2019\/Protected\/v6611.mp3",
+               "mime":"audio\/mp3",
+               "copyright":{
+                  "license":"U"
+               }
+            }
+         ],
+         "image":{
+            "path":"images\/Documentary.jpg",
+            "mime":"image\/jpeg",
+            "width":500,
+            "height":500
+         }
+      },
+      {
+         "tips":{
+
+         },
+         "text":"Grounds (noun)",
+         "answer":"Definition: The basis for a belief or claim.",
+         "imageAltText":"-",
+         "audio":[
+            {
+               "path":"https:\/\/studylegalenglish.com\/wp-content\/uploads\/2019\/Protected\/v6612.mp3",
+               "mime":"audio\/mp3",
+               "copyright":{
+                  "license":"U"
+               }
+            }
+         ],
+         "image":{
+            "path":"images\/Ratio.jpg",
+            "mime":"image\/jpeg",
+            "width":500,
+            "height":500
+         }
+      },
+      {
+         "tips":{
+
+         },
+         "text":"Offender (noun)",
+         "answer":"Definition: A person who has given an admission of guilt for committing an offence or has been found guilty in court. ",
+         "imageAltText":"-",
+         "audio":[
+            {
+               "path":"https:\/\/studylegalenglish.com\/wp-content\/uploads\/2019\/Protected\/v6613.mp3",
+               "mime":"audio\/mp3",
+               "copyright":{
+                  "license":"U"
+               }
+            }
+         ],
+         "image":{
+            "path":"images\/offender.jpg",
+            "mime":"image\/jpeg",
+            "width":500,
+            "height":500
+         }
+      },
+      {
+         "tips":{
+
+         },
+         "text":"To plead (verb)",
+         "answer":"Definition: To make a plea (a formal statement) of either guilty or not-guilty by or on behalf of a suspect in court as a response to a charge made against him or her.  ",
+         "imageAltText":"-",
+         "audio":[
+            {
+               "path":"https:\/\/studylegalenglish.com\/wp-content\/uploads\/2019\/Protected\/v6614.mp3",
+               "mime":"audio\/mp3",
+               "copyright":{
+                  "license":"U"
+               }
+            }
+         ],
+         "image":{
+            "path":"images\/plead.jpg",
+            "mime":"image\/jpeg",
+            "width":500,
+            "height":500
+         }
+      },
+      {
+         "tips":{
+
+         },
+         "text":"Guilty (adjective)",
+         "answer":"Definition: Responsible for committing an offence, having admitted to committing an offence one is charged with or being found to have committed an offence in court.",
+         "imageAltText":"-",
+         "audio":[
+            {
+               "path":"https:\/\/studylegalenglish.com\/wp-content\/uploads\/2019\/Protected\/v6615.mp3",
+               "mime":"audio\/mp3",
+               "copyright":{
+                  "license":"U"
+               }
+            }
+         ],
+         "image":{
+            "path":"images\/Guilty.jpg",
+            "mime":"image\/jpeg",
+            "width":500,
+            "height":500
+         }
+      },
+      {
+         "tips":{
+
+         },
+         "text":"Two-fold (adjective)",
+         "answer":"Definition: Having two parts.",
+         "imageAltText":"-",
+         "audio":[
+            {
+               "path":"https:\/\/studylegalenglish.com\/wp-content\/uploads\/2019\/Protected\/v6616.mp3",
+               "mime":"audio\/mp3",
+               "copyright":{
+                  "license":"U"
+               }
+            }
+         ],
+         "image":{
+            "path":"images\/two.jpg",
+            "mime":"image\/jpeg",
+            "width":500,
+            "height":500
+         }
+      }
+   ],
+   "behaviour":{
+      "enableRetry":true,
+      "disableBackwardsNavigation":false,
+      "scaleTextNotCard":false,
+      "randomCards":false
+   },
+   "answer":"Turn",
+   "next":"Next",
+   "prev":"Previous",
+   "retry":"Retry",
+   "progressText":"Card @card of @total",
+   "cardFrontLabel":"Card front",
+   "cardBackLabel":"Card back",
+   "tipButtonLabel":"Show tip",
+   "audioNotSupported":"Your browser does not support this audio",
+   "title":""
+}
+

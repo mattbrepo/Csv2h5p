@@ -1,0 +1,105 @@
+{
+   "introPage":{
+      "showIntroPage":false,
+      "startButtonText":"Start Quiz",
+      "introduction":""
+   },
+   "progressType":"dots",
+   "passPercentage":50,
+   "questions":[
+      {
+         "params":{
+            "taskDescription":"<p>Drag the words into the correct boxes<\/p>",
+            "overallFeedback":[
+               {
+                  "from":0,
+                  "to":25,
+                  "feedback":"pippo1"
+               },
+               {
+                  "from":26,
+                  "to":50,
+                  "feedback":"pippo2"
+               },
+               {
+                  "from":51,
+                  "to":75,
+                  "feedback":"pippo3"
+               },
+               {
+                  "from":76,
+                  "to":100,
+                  "feedback":"pippo4"
+               }
+            ],
+            "checkAnswer":"Check",
+            "tryAgain":"Retry",
+            "showSolution":"Show solution",
+            "dropZoneIndex":"Drop Zone @index.",
+            "empty":"Drop Zone @index is empty.",
+            "contains":"Drop Zone @index contains draggable @draggable.",
+            "draggableIndex":"Draggable @text. @index of @count draggables.",
+            "tipLabel":"Show tip",
+            "correctText":"Correct!",
+            "incorrectText":"Incorrect!",
+            "resetDropTitle":"Reset drop",
+            "resetDropDescription":"Are you sure you want to reset this drop zone?",
+            "grabbed":"Draggable is grabbed.",
+            "cancelledDragging":"Cancelled dragging.",
+            "correctAnswer":"Correct answer:",
+            "feedbackHeader":"Feedback",
+            "behaviour":{
+               "enableRetry":true,
+               "enableSolutionsButton":true,
+               "enableCheckButton":true,
+               "instantFeedback":false
+            },
+            "scoreBarLabel":"You got :num out of :total points",
+            "textField":"She had credit cards coming out of her *ears*.\nBack in the *day*, life was better.\nDay in, day *out*, we work hard to ensure we deliver results.\nIt&#039;s not *rocket* science \u2013 if you work hard, you get results.\nSome litigators can be aggressive. You should keep them at an arm&#039;s *pippissimo*."
+         },
+         "library":"H5P.DragText 1.8",
+         "metadata":{
+            "contentType":"Drag Text",
+            "license":"U",
+            "title":"Episide 80 DragDrop"
+         }
+      }
+   ],
+   "disableBackwardsNavigation":false,
+   "randomQuestions":true,
+   "endGame":{
+      "showResultPage":true,
+      "showSolutionButton":true,
+      "showRetryButton":true,
+      "noResultMessage":"Finished",
+      "message":"Your result:",
+      "overallFeedback":[
+         {
+            "from":0,
+            "to":100
+         }
+      ],
+      "solutionButtonText":"Show solution",
+      "retryButtonText":"Retry",
+      "finishButtonText":"Finish",
+      "showAnimations":false,
+      "skippable":false,
+      "skipButtonText":"Skip video"
+   },
+   "override":{
+      "checkButton":true
+   },
+   "texts":{
+      "prevButton":"Previous question",
+      "nextButton":"Next question",
+      "finishButton":"Finish",
+      "textualProgress":"Question: @current of @total questions",
+      "jumpToQuestion":"Question %d of %total",
+      "questionLabel":"Question",
+      "readSpeakerProgress":"Question @current of @total",
+      "unansweredText":"Unanswered",
+      "answeredText":"Answered",
+      "currentQuestionText":"Current question"
+   }
+}
+

@@ -1,0 +1,112 @@
+{
+   "introduction":{
+      "showIntroPage":true,
+      "introductionText":"Instructions: Practise your pronunciation by reading the phrase. Speak slowly and clearly and enunciate each word."
+   },
+   "questions":[
+      {
+         "params":{
+            "incorrectAnswerText":"Your pronunciation needs improving.",
+            "correctAnswerText":"Hello how are you?",
+            "inputLanguage":"en-GB",
+            "l10n":{
+               "retryLabel":"Retry",
+               "showSolutionLabel":"Show solution",
+               "speakLabel":"Push to speak",
+               "listeningLabel":"Listening...",
+               "correctAnswersText":"The correct answer(s):",
+               "userAnswersText":"Your answer(s) was interpreted as:",
+               "noSound":"I could not hear you, make sure your microphone is enabled",
+               "unsupportedBrowserHeader":"It looks like your browser does not support speech recognition",
+               "unsupportedBrowserDetails":"Please try again in a browser like Chrome"
+            },
+            "question":"Hello how are you?",
+            "acceptedAnswers":[
+               "hello how are you"
+            ]
+         },
+         "library":"H5P.SpeakTheWords 1.3",
+         "metadata":{
+            "contentType":"Speak the Words",
+            "license":"U",
+            "title":"Episide 80 Speak",
+            "authors":[
+
+            ],
+            "changes":[
+
+            ],
+            "extraTitle":"Episide 80 Speak"
+         }
+      },
+      {
+         "params":{
+            "incorrectAnswerText":"Your pronunciation needs improving.",
+            "correctAnswerText":"What's your name?",
+            "inputLanguage":"en-GB",
+            "l10n":{
+               "retryLabel":"Retry",
+               "showSolutionLabel":"Show solution",
+               "speakLabel":"Push to speak",
+               "listeningLabel":"Listening...",
+               "correctAnswersText":"The correct answer(s):",
+               "userAnswersText":"Your answer(s) was interpreted as:",
+               "noSound":"I could not hear you, make sure your microphone is enabled",
+               "unsupportedBrowserHeader":"It looks like your browser does not support speech recognition",
+               "unsupportedBrowserDetails":"Please try again in a browser like Chrome"
+            },
+            "question":"What's your name?",
+            "acceptedAnswers":[
+               "what's your name"
+            ]
+         },
+         "library":"H5P.SpeakTheWords 1.3",
+         "metadata":{
+            "contentType":"Speak the Words",
+            "license":"U",
+            "title":"Episide 80 Speak",
+            "authors":[
+
+            ],
+            "changes":[
+
+            ],
+            "extraTitle":"Episide 80 Speak"
+         }
+      }
+   ],
+   "overallFeedback":[
+      {
+         "from":0,
+         "to":25,
+         "feedback":"Try speaking slower and clearer."
+      },
+      {
+         "from":26,
+         "to":50,
+         "feedback":"Keep practising!"
+      },
+      {
+         "from":51,
+         "to":75,
+         "feedback":"Great pronunciation!"
+      },
+      {
+         "from":76,
+         "to":100,
+         "feedback":"Perfect pronunciation!"
+      }
+   ],
+   "l10n":{
+      "introductionButtonLabel":"Start Course!",
+      "solutionScreenResultsLabel":"Your results:",
+      "showSolutionsButtonLabel":"Show solution",
+      "retryButtonLabel":"Retry",
+      "nextQuestionAriaLabel":"Next question",
+      "previousQuestionAriaLabel":"Previous question",
+      "navigationBarTitle":"Slide :num",
+      "answeredSlideAriaLabel":"Answered",
+      "activeSlideAriaLabel":"Currently active"
+   }
+}
+
